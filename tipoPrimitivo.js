@@ -10,3 +10,13 @@ console.log(typeof idade)
 console.log(typeof estaAprovado)
 console.log(typeof corSelecionada)
 
+let pessoa = {
+    
+    nome: 'Bruno' ,
+    idade: 34,
+    estaAprovado: true, 
+    sobrenome: 'Theodoro'
+    
+};
+
+console.log(pessoa);
